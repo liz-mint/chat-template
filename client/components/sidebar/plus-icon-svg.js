@@ -3,7 +3,7 @@ import React from 'react'
 const PlusSVG = () => {
   return (
     <svg
-      className="fill-current h-4 w-4 opacity-50"
+      className="fill-current h-4 w-4 opacity-50 cursor-pointer hover:opacity-75"
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 20 20"
     >

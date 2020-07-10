@@ -1,8 +1,8 @@
 import React from 'react'
 
 import Head from './head'
-import Sidebar from './sidebar'
-import Main from './main'
+import Sidebar from './sidebar/sidebar'
+import Main from './main/main'
 
 const Home = () => {
   return (
